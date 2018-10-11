@@ -3,4 +3,6 @@ include LICENSE
 include environment.yml
 include snorkel/vis/tree-chart.html
 include snorkel/vis/tree-chart.js
+include snorkel/contrib/brat/templates/annotation.config.tmpl
+include snorkel/contrib/brat/templates/tools.conf
 recursive-include snorkel/viewer *
